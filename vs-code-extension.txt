@@ -1,0 +1,22 @@
+Auto close tag
+auto import
+auto rename tag
+babel javascript
+beautify css/sass/scss
+bracket pair colorizer
+code spell checker
+color highlight
+es7 react
+gitignore
+gitlens
+graphql
+live server
+live share
+path intellisense
+prettier-Standard
+rainbow brackets
+shades of purple
+svg icons
+vscode great icons
+vscode-styled-components
+window colors
